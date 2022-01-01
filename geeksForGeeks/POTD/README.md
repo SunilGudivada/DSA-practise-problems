@@ -1,6 +1,7 @@
-# Problem of the Day (POTD)
+# 📅 Problem of the Day (POTD)
 
-## 💠  Levels
+## 💠 Levels
+
 - ✳️ - Easy
 - ✴️ - Medium
 - 🔺 - Hard
@@ -9,6 +10,7 @@
 
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
+|01 January 2021|✴️ `Integer to Words` | [Problem Link](https://practice.geeksforgeeks.org/problems/number-to-words0335/1#)           |
 |31 December 2021 | ✳️ `Evaluation of Postfix Expression`|[Problem Link](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1)           |
 |30 December 2021| ✳️ `Binary Heap Operations`|[Problem Link](https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)           |
 |29 December 2021|✴️ `Number of Coins`            |[Problem Link](https://practice.geeksforgeeks.org/problems/number-of-coins1824/1)           |

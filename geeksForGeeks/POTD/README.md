@@ -10,6 +10,7 @@
 
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
+|02 January 2021|✴️ `K Smallest Factor` | [Problem Link](https://practice.geeksforgeeks.org/problems/kth-smallest-factor2345/1#)           |
 |01 January 2021|✴️ `Integer to Words` | [Problem Link](https://practice.geeksforgeeks.org/problems/number-to-words0335/1#)           |
 |31 December 2021 | ✳️ `Evaluation of Postfix Expression`|[Problem Link](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1)           |
 |30 December 2021| ✳️ `Binary Heap Operations`|[Problem Link](https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)           |

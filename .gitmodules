@@ -1,3 +1,6 @@
 [submodule "algoexpert.io"]
 	path = algoexpert.io
 	url = https://github.com/SunilGudivada/algoexpert.io
+[submodule "low-level-design"]
+	path = low-level-design
+	url = https://github.com/SunilGudivada/low-level-design

@@ -10,6 +10,7 @@
 
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
+|05 January 2021|✳️ `Binary Array Sorting` | [Problem Link](https://practice.geeksforgeeks.org/problems/binary-array-sorting-1587115620/1)|
 |04 January 2021|✴️ `Search Pattern (Z-algorithm) ` | [Problem Link](https://practice.geeksforgeeks.org/problems/8dcd25918295847b4ced54055eae35a8501181c1/1)|
 |03 January 2021|✴️ `Rotate by 90 degree` | [Problem Link](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1#)|
 |02 January 2021|✴️ `K Smallest Factor` | [Problem Link](https://practice.geeksforgeeks.org/problems/kth-smallest-factor2345/1#)           |

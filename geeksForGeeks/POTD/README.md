@@ -10,6 +10,7 @@
 
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
+|07 January 2021|✳️ `1's Complement` | [Problem Link](https://practice.geeksforgeeks.org/problems/1s-complement2819/1#)|
 |06 January 2021|✳️ `Longest Common Prefix in an Array` | [Problem Link](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1)|
 |05 January 2021|✳️ `Binary Array Sorting` | [Problem Link](https://practice.geeksforgeeks.org/problems/binary-array-sorting-1587115620/1)|
 |04 January 2021|✴️ `Search Pattern (Z-algorithm) ` | [Problem Link](https://practice.geeksforgeeks.org/problems/8dcd25918295847b4ced54055eae35a8501181c1/1)|

@@ -10,6 +10,7 @@
 
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
+|09 January 2021|✳️ `Positive Negative Pair` | [Problem Link](https://practice.geeksforgeeks.org/problems/positive-negative-pair5209/1)|
 |08 January 2021|✳️ `1's Complement` | [Problem Link](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1)|
 |07 January 2021|✳️ `1's Complement` | [Problem Link](https://practice.geeksforgeeks.org/problems/1s-complement2819/1)|
 |06 January 2021|✳️ `Longest Common Prefix in an Array` | [Problem Link](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1)|

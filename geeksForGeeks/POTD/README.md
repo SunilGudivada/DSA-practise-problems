@@ -10,8 +10,9 @@
 
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
+|10 January 2021|✳️ `Positive Negative Pair` | [Problem Link](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1)|
 |09 January 2021|✳️ `Positive Negative Pair` | [Problem Link](https://practice.geeksforgeeks.org/problems/positive-negative-pair5209/1)|
-|08 January 2021|✳️ `1's Complement` | [Problem Link](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1)|
+|08 January 2021|✳️ `N Digit numbers with digits in increasing order` | [Problem Link](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1)|
 |07 January 2021|✳️ `1's Complement` | [Problem Link](https://practice.geeksforgeeks.org/problems/1s-complement2819/1)|
 |06 January 2021|✳️ `Longest Common Prefix in an Array` | [Problem Link](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1)|
 |05 January 2021|✳️ `Binary Array Sorting` | [Problem Link](https://practice.geeksforgeeks.org/problems/binary-array-sorting-1587115620/1)|

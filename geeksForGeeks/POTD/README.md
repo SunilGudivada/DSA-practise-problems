@@ -10,7 +10,8 @@
 
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
-|10 January 2021|✳️ `Positive Negative Pair` | [Problem Link](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1)|
+|11 January 2021|✳️ `Clone a stack without using extra space` | [Problem Link](https://practice.geeksforgeeks.org/problems/clone-a-stack-without-usinig-extra-space/1)|
+|10 January 2021|✳️ `Add 1 to a number represented as linked list` | [Problem Link](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1)|
 |09 January 2021|✳️ `Positive Negative Pair` | [Problem Link](https://practice.geeksforgeeks.org/problems/positive-negative-pair5209/1)|
 |08 January 2021|✳️ `N Digit numbers with digits in increasing order` | [Problem Link](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1)|
 |07 January 2021|✳️ `1's Complement` | [Problem Link](https://practice.geeksforgeeks.org/problems/1s-complement2819/1)|

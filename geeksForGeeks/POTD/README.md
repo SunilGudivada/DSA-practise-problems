@@ -10,6 +10,7 @@
 
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
+|13 January 2021|✳️ `Reverse First K elements of Queue` | [Problem Link](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1)|
 |12 January 2021|✴️ `Check if subtree` | [Problem Link](https://practice.geeksforgeeks.org/problems/check-if-subtree/1)|
 |11 January 2021|✳️ `Clone a stack without using extra space` | [Problem Link](https://practice.geeksforgeeks.org/problems/clone-a-stack-without-usinig-extra-space/1)|
 |10 January 2021|✳️ `Add 1 to a number represented as linked list` | [Problem Link](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1)|

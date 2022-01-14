@@ -10,6 +10,7 @@
 
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
+|14 January 2021|✴️ `Add all greater values to every node in a BST` | [Problem Link](https://practice.geeksforgeeks.org/problems/add-all-greater-values-to-every-node-in-a-bst/1)|
 |13 January 2021|✳️ `Reverse First K elements of Queue` | [Problem Link](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1)|
 |12 January 2021|✴️ `Check if subtree` | [Problem Link](https://practice.geeksforgeeks.org/problems/check-if-subtree/1)|
 |11 January 2021|✳️ `Clone a stack without using extra space` | [Problem Link](https://practice.geeksforgeeks.org/problems/clone-a-stack-without-usinig-extra-space/1)|

@@ -10,6 +10,7 @@
 
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
+|15 January 2021|✳️️ `Merge two binary Max heaps` | [Problem Link](https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1)|
 |14 January 2021|✴️ `Add all greater values to every node in a BST` | [Problem Link](https://practice.geeksforgeeks.org/problems/add-all-greater-values-to-every-node-in-a-bst/1)|
 |13 January 2021|✳️ `Reverse First K elements of Queue` | [Problem Link](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1)|
 |12 January 2021|✴️ `Check if subtree` | [Problem Link](https://practice.geeksforgeeks.org/problems/check-if-subtree/1)|

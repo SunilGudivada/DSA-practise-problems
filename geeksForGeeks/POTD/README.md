@@ -10,6 +10,7 @@
 
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
+|16 January 2021|✴️️️ `Steps by Knight` | [Problem Link](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1)|
 |15 January 2021|✳️️ `Merge two binary Max heaps` | [Problem Link](https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1)|
 |14 January 2021|✴️ `Add all greater values to every node in a BST` | [Problem Link](https://practice.geeksforgeeks.org/problems/add-all-greater-values-to-every-node-in-a-bst/1)|
 |13 January 2021|✳️ `Reverse First K elements of Queue` | [Problem Link](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1)|

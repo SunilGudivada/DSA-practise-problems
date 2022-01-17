@@ -42,7 +42,7 @@ package geeksForGeeks.POTD._2022.JAN;
  * 1 <= N <= 10^6
  * 0 <= A[i] <= 1
  */
-public class _05JANBinaryArraySorting {
+public class _05JAN2022_BinaryArraySorting {
     static void binSort(int[] arr, int n)
     {
         int left = 0;

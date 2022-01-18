@@ -10,6 +10,7 @@
 
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
+|18 January 2021|✴️️️️️ `Maximum Sum of adjacent nodes` | [Problem Link](https://practice.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1)|
 |17 January 2021|🔺️️️ `Palindrome Pairs` | [Problem Link](https://practice.geeksforgeeks.org/problems/palindrome-pairs/1)|
 |16 January 2021|✴️️️ `Steps by Knight` | [Problem Link](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1)|
 |15 January 2021|✳️️ `Merge two binary Max heaps` | [Problem Link](https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1)|

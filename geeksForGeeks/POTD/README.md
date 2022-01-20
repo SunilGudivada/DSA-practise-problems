@@ -10,6 +10,7 @@
 
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
+|20 January 2021|✳️️ `Binary number to decimal number` | [Problem Link](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1)|
 |19 January 2021|✳️️ `Maximum sum of increasing order elements from n arrays` | [Problem Link](https://practice.geeksforgeeks.org/problems/maximum-sum-of-increasing-order-elements-from-n-arrays4848/1)|
 |18 January 2021|✴️️️️️ `Maximum Sum of adjacent nodes` | [Problem Link](https://practice.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1)|
 |17 January 2021|🔺️️️ `Palindrome Pairs` | [Problem Link](https://practice.geeksforgeeks.org/problems/palindrome-pairs/1)|

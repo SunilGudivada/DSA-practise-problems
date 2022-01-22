@@ -10,6 +10,7 @@
 
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
+|22 January 2021|🔺️️️️️️ `Distinct Palindromic Substrings` | [Problem Link](https://practice.geeksforgeeks.org/problems/distinct-palindromic-substrings5141/1#)|
 |21 January 2021|✴️️️️️ `Leaves to DDL` | [Problem Link](https://practice.geeksforgeeks.org/problems/leaves-to-dll/1)|
 |20 January 2021|✳️️ `Binary number to decimal number` | [Problem Link](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1)|
 |19 January 2021|✳️️ `Maximum sum of increasing order elements from n arrays` | [Problem Link](https://practice.geeksforgeeks.org/problems/maximum-sum-of-increasing-order-elements-from-n-arrays4848/1)|

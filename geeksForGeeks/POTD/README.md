@@ -10,6 +10,7 @@
 
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
+|25 January 2021|✴️️️️️ `Capacity To Ship Packages Within D Days` | [Problem Link](https://practice.geeksforgeeks.org/problems/capacity-to-ship-packages-within-d-days/1)|
 |24 January 2021|✴️️️️️ `Next Permutation` | [Problem Link](https://practice.geeksforgeeks.org/problems/next-permutation5226/1)|
 |23 January 2021|✳️️️️️ `Rearrange a String` | [Problem Link](https://practice.geeksforgeeks.org/problems/rearrange-a-string4100/1)|
 |22 January 2021|🔺️️️️️️ `Distinct Palindromic Substrings` | [Problem Link](https://practice.geeksforgeeks.org/problems/distinct-palindromic-substrings5141/1#)|

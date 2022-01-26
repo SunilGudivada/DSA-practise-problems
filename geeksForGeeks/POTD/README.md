@@ -10,6 +10,7 @@
 
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
+|26 January 2021|✴️️️️️ `Gadgets of Doraland` | [Problem Link](https://practice.geeksforgeeks.org/problems/bbd15e2da95880979ce65acc7360e2c5681664e65520/1)|
 |25 January 2021|✴️️️️️ `Capacity To Ship Packages Within D Days` | [Problem Link](https://practice.geeksforgeeks.org/problems/capacity-to-ship-packages-within-d-days/1)|
 |24 January 2021|✴️️️️️ `Next Permutation` | [Problem Link](https://practice.geeksforgeeks.org/problems/next-permutation5226/1)|
 |23 January 2021|✳️️️️️ `Rearrange a String` | [Problem Link](https://practice.geeksforgeeks.org/problems/rearrange-a-string4100/1)|

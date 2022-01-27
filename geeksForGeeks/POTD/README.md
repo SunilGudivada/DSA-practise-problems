@@ -10,6 +10,7 @@
 
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
+|27 January 2021|✴️️️️️ `HandShakes` | [Problem Link](https://practice.geeksforgeeks.org/problems/handshakes1303/1)|
 |26 January 2021|✴️️️️️ `Gadgets of Doraland` | [Problem Link](https://practice.geeksforgeeks.org/problems/bbd15e2da95880979ce65acc7360e2c5681664e65520/1)|
 |25 January 2021|✴️️️️️ `Capacity To Ship Packages Within D Days` | [Problem Link](https://practice.geeksforgeeks.org/problems/capacity-to-ship-packages-within-d-days/1)|
 |24 January 2021|✴️️️️️ `Next Permutation` | [Problem Link](https://practice.geeksforgeeks.org/problems/next-permutation5226/1)|

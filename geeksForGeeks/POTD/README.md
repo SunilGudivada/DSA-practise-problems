@@ -10,6 +10,7 @@
 
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
+|31 January 2021|✴️️️️️ `Cousins of a given node` | [Problem Link](https://practice.geeksforgeeks.org/problems/cousins-of-a-given-node/1)|
 |30 January 2021|✴️️️️️ `Coins of Geekland` | [Problem Link](https://practice.geeksforgeeks.org/problems/257a9e27fb3e58255622c8dcb06e0919cc1c6c11/1)|
 |29 January 2021|✳️️️️️ `Reverse words in a given string` | [Problem Link](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)|
 |28 January 2021|✴️️️️️ `nCr mod M - Part 1` | [Problem Link](https://practice.geeksforgeeks.org/problems/ncr-mod-m-part-10038/1)|

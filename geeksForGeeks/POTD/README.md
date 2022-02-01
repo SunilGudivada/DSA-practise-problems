@@ -8,6 +8,15 @@
 
 ## 💠 Problems
 
+## February 2022
+
+|      #          |Problem                          |Link                         |
+|----------------|-------------------------------|-----------------------------|
+|1 February 2021|✴️️️️️ `Implementing Dijkstra Algorithm` | [Problem Link](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)|
+
+
+## January 2022
+
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
 |31 January 2021|✴️️️️️ `Cousins of a given node` | [Problem Link](https://practice.geeksforgeeks.org/problems/cousins-of-a-given-node/1)|

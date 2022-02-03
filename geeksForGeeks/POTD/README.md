@@ -12,6 +12,7 @@
 
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
+|3 February 2021|✳️️️️️️️️️️ `Excel Sheet - [part -1] ` | [Problem Link](https://practice.geeksforgeeks.org/problems/excel-sheet5448/1#)|
 |2 February 2021|✳️️️️️️️️️️ `Find Position of Set Bit` | [Problem Link](https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1)|
 |1 February 2021|✴️️️️️ `Implementing Dijkstra Algorithm` | [Problem Link](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)|
 

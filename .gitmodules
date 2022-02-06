@@ -4,3 +4,6 @@
 [submodule "low-level-design"]
 	path = low-level-design
 	url = https://github.com/SunilGudivada/low-level-design
+[submodule "Design-Patterns"]
+	path = Design-Patterns
+	url = https://github.com/SunilGudivada/Design-Patterns.git

@@ -12,6 +12,7 @@
 
 |      #          |Problem                          |Link                         |
 |----------------|-------------------------------|-----------------------------|
+|6 February 2021|✴️️️️️️️️️️️️️️ `Minimum Swaps to Sort` | [Problem Link](https://practice.geeksforgeeks.org/problems/minimum-swaps/1)|
 |5 February 2021|✴️️️️️️️️️️️️️️ `Transfiguration` | [Problem Link](https://practice.geeksforgeeks.org/problems/b6b3297ccfb1ad5f66a9c2b92979170417adf114/1)|
 |4 February 2021|🔺️️️️️️️️️️ `Shortest Unique prefix for every word` | [Problem Link](https://practice.geeksforgeeks.org/problems/shortest-unique-prefix-for-every-word/1#)|
 |3 February 2021|✳️️️️️️️️️️ `Excel Sheet - [part -1] ` | [Problem Link](https://practice.geeksforgeeks.org/problems/excel-sheet5448/1#)|
